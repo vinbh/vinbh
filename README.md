@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinbh
+- 👋 Hi, I’m (@vinbh| @vbhatt02)
 - 👀 I’m interested in Reliability Engineering
 - 🌱 I’m currently learning Datastructures and Algorithms
 - 💞️ I’m looking to collaborate on Cloudera Hue, Apache Kafka.
